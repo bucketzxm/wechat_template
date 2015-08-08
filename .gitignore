@@ -1,0 +1,5 @@
+*.pyc
+config.py
+db.sqlite3
+Weixin_nginx.conf
+.idea/
